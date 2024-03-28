@@ -1,6 +1,6 @@
 [project]
 name = "my_package"
-version = "1.0.0"  # x-release-please-version
+version = "1.0.0"
 
 [build-system]
 requires = ["setuptools >= 62.6.0"]
