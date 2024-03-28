@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/iExalt/my-python-release-please-test/compare/v1.0.0...v1.1.0) (2024-03-28)
+
+
+### Features
+
+* try release-please without setup.* files ([6dce478](https://github.com/iExalt/my-python-release-please-test/commit/6dce4781fdf5ba6ab16496a0884dd58c5c95b3ad))
+
 ## [1.0.0](https://github.com/iExalt/my-python-release-please-test/compare/v0.2.1...v1.0.0) (2024-03-28)
 
 
