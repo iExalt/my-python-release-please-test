@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/iExalt/my-python-release-please-test/compare/v0.2.0...v0.2.1) (2024-03-28)
+
+
+### Bug Fixes
+
+* bugfix ([03a0261](https://github.com/iExalt/my-python-release-please-test/commit/03a02617ca55168476b326154c007cd39447e3d4))
+
 ## [0.2.0](https://github.com/iExalt/my-python-release-please-test/compare/v0.1.0...v0.2.0) (2024-03-28)
 
 
