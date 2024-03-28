@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/iExalt/my-python-release-please-test/compare/v0.2.1...v1.0.0) (2024-03-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* wow such feature much change
+
+### Features
+
+* wow such feature much change ([22384cb](https://github.com/iExalt/my-python-release-please-test/commit/22384cb4248911094eb7318823327fd033dd8444))
+
 ## [0.2.1](https://github.com/iExalt/my-python-release-please-test/compare/v0.2.0...v0.2.1) (2024-03-28)
 
 
